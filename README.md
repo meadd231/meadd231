@@ -1,8 +1,8 @@
 <div align="center">
 
-### Hi there 👋 I'm meadd231
+<h2>Hi there 👋 I'm meadd231</h2>
 
-## Teck Stack
+<h2>Teck Stack</h2>
 
 <!-- js -->
 <div>
@@ -17,9 +17,22 @@
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=Express&logoColor=white">
 </div>
 
-Database
+<div>
+  <h2>Database</h2>
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+</div>
 
-Infra
+<div>
+  <h2>Infra</h2>
+  <img src="https://img.shields.io/badge/aws ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+</div>
 
-Others
+<div>
+  <h2>Others</h2>
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+</div>
 </div>
