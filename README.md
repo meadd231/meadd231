@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>Hi there 👋 I'm meadd231</h2>
+<h2>👋 I'm meadd231, js developer</h2>
 
 <h2>Teck Stack</h2>
 
