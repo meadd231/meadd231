@@ -1,7 +1,4 @@
 <div align="center">
-
-<h2>👋 I'm meadd231, JS developer</h2>
-
 <h2>Teck Stack</h2>
 
 <!-- js -->
