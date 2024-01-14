@@ -16,6 +16,11 @@
 </div>
 
 <div>
+  <h4>Frontend</h4>
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+</div>
+
+<div>
   <h4>Database</h4>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
